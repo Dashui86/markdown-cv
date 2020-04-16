@@ -23,19 +23,19 @@ Supported arguments:
 
 ## Education
 
-### **Carnegie Mellon University** `2018.9 -`
+### **复旦大学** `2011.7 - 2014.7`
 
 ```
-Pittsburgh, PA
+杨浦区, 上海
 ```
 
-- Ph.D. in Software Engineering
-- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
+- 植物学博士，导师[钟扬](https://baike.baidu.com/item/钟扬/3422173)，研究方向为分子进化、群体遗传学、系统发育
+- 
 
 ### **Columbia University** `2016.9 - 2018.5`
 
 ```
-New York, NY
+太原, 山西
 ```
 
 - B.S. in Computer Science, _Magna Cum Laude_
